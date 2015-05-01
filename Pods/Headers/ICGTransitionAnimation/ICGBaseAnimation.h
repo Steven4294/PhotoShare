@@ -1,0 +1,1 @@
+../../ICGTransitionAnimation/Source/AnimationControllers/ICGBaseAnimation.h

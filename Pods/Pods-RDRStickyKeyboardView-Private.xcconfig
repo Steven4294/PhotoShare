@@ -1,0 +1,5 @@
+#include "Pods-RDRStickyKeyboardView.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/BuildHeaders" "${PODS_ROOT}/BuildHeaders/RDRStickyKeyboardView" "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/AFNetworking" "${PODS_ROOT}/Headers/AMScrollingNavbar" "${PODS_ROOT}/Headers/DACircularProgress" "${PODS_ROOT}/Headers/DBCamera" "${PODS_ROOT}/Headers/GPUImage" "${PODS_ROOT}/Headers/IDMPhotoBrowser" "${PODS_ROOT}/Headers/MRoundedButton" "${PODS_ROOT}/Headers/NJKScrollFullScreen" "${PODS_ROOT}/Headers/RDRStickyKeyboardView" "${PODS_ROOT}/Headers/SDWebImage" "${PODS_ROOT}/Headers/SVProgressHUD"
+OTHER_LDFLAGS = -ObjC
+PODS_ROOT = ${SRCROOT}

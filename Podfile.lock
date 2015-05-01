@@ -1,0 +1,114 @@
+PODS:
+  - AFNetworking (2.2.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+    - AFNetworking/UIKit
+  - AFNetworking/NSURLConnection (2.2.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.2.4):
+    - AFNetworking/NSURLConnection
+  - AFNetworking/Reachability (2.2.4)
+  - AFNetworking/Security (2.2.4)
+  - AFNetworking/Serialization (2.2.4)
+  - AFNetworking/UIKit (2.2.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - AMScrollingNavbar (1.0.1)
+  - DACircularProgress (2.2.0)
+  - DAKeyboardControl (2.4.0)
+  - DBCamera (2.3.3):
+    - GPUImage (~> 0.1)
+  - FFCircularProgressView (0.4)
+  - FXBlurView (1.6.2)
+  - GPUImage (0.1.5)
+  - Haneke (0.1.1)
+  - HMSegmentedControl (1.4.0)
+  - ICGTransitionAnimation (1.01)
+  - IDMPhotoBrowser (1.3.5):
+    - AFNetworking (~> 2.2.3)
+    - DACircularProgress (~> 2.2)
+    - SVProgressHUD (~> 1.0)
+  - ILTranslucentView (0.0.1)
+  - JSQMessagesViewController (5.2.5):
+    - JSQSystemSoundPlayer
+  - JSQSystemSoundPlayer (1.5.2)
+  - JTSImageViewController (1.1.1)
+  - LRImageManager (0.3):
+    - Reachability
+  - MRoundedButton (1.0)
+  - NJKScrollFullScreen (0.2.2)
+  - Reachability (3.1.1)
+  - SDSegmentedControl (1.0.2)
+  - SDWebImage (3.7.1):
+    - SDWebImage/Core
+  - SDWebImage/Core (3.7.1)
+  - SVProgressHUD (1.0)
+  - SVPullToRefresh (0.4.1)
+  - SWTableViewCell (0.3.3)
+  - TLYShyNavBar (0.9.7)
+  - UIImage+ImageCompress (0.0.1)
+  - UzysCircularProgressPullToRefresh (1.0.7)
+  - ZFDragableModalTransition (0.2)
+
+DEPENDENCIES:
+  - AMScrollingNavbar (~> 1.0)
+  - DAKeyboardControl (~> 2.4)
+  - DBCamera (~> 2.3)
+  - FFCircularProgressView (>= 0.1)
+  - FXBlurView (~> 1.6)
+  - Haneke (~> 0.1)
+  - HMSegmentedControl (~> 1.4)
+  - ICGTransitionAnimation (~> 1.01)
+  - IDMPhotoBrowser
+  - ILTranslucentView (~> 0.0)
+  - JSQMessagesViewController (~> 5.2)
+  - JTSImageViewController (~> 1.1)
+  - LRImageManager
+  - MRoundedButton (~> 1.0)
+  - NJKScrollFullScreen
+  - SDSegmentedControl (~> 1.0)
+  - SDWebImage (~> 3.7)
+  - SVPullToRefresh
+  - SWTableViewCell (~> 0.3)
+  - TLYShyNavBar (~> 0.9)
+  - UIImage+ImageCompress
+  - UzysCircularProgressPullToRefresh (~> 1.0)
+  - ZFDragableModalTransition (~> 0.2)
+
+SPEC CHECKSUMS:
+  AFNetworking: ab63e259fe91eef4519b371ef0a4955af0e73e64
+  AMScrollingNavbar: ff4d5a72b463eb03c764e91ac21312407d3bf6c6
+  DACircularProgress: 3b41941891a56dc6aa17971f5322a9a38a6f446e
+  DAKeyboardControl: 45a363c85c48a7df76f21f236d9f85800e001775
+  DBCamera: d1bf4699c496e982004223a4da33941c7389f4e2
+  FFCircularProgressView: 8b1def13f3eb58916162867c5cea79c242679b96
+  FXBlurView: 47496afc9160097fa34af35fc4b310bd85d65dca
+  GPUImage: 5114a47f5fc33eb312f3731550a3cea379416d04
+  Haneke: 4e41a0e891e139553e647df90c10c5429da231f4
+  HMSegmentedControl: c0517a8d4b80c978b8386f863f1c44729cfd7d6f
+  ICGTransitionAnimation: 0a5352154a258d5f494facf9e3ed85796531e22f
+  IDMPhotoBrowser: d691bcdf470553e165f8eb982c5cd8e9a58bcdef
+  ILTranslucentView: fa20cc89ceb451b54ae3d993c7dfb789873ef153
+  JSQMessagesViewController: ca64d32c789ac8e95b3bfb28171ff0afecf2b27b
+  JSQSystemSoundPlayer: c24914bc96ff5365b5d28b59d7ecffd60d1c5587
+  JTSImageViewController: e8167cffe5ffdb9203a8931d41ba5a4dd5ac5f5a
+  LRImageManager: 166f4c035fecc08dacfb91a5e02e753ca2a7fdf2
+  MRoundedButton: 89d8c570f39a565810a5f20d0d0620e466204fb1
+  NJKScrollFullScreen: 226315cb870d997910f48614a613e7b95b9550d4
+  Reachability: 8e9635e3cb4f98e7f825e51147f677ecc694d0e7
+  SDSegmentedControl: 01fda28a7ba24a45915c0a3e69c32691643aa327
+  SDWebImage: 116e88633b5b416ea0ca4b334a4ac59cf72dd38d
+  SVProgressHUD: 5034c6e22b8c2ca3e09402e48d41ed0340aa1c50
+  SVPullToRefresh: d5161ebc833a38b465364412e5e307ca80bbb190
+  SWTableViewCell: 32bc77dd4e8b2675c7c0bed8e6976c56e22ac3e3
+  TLYShyNavBar: 8c89cc5225a26618ff7d0cb922f72060300deec8
+  UIImage+ImageCompress: 170241cb980e3f5057d74122480a24c92d25d8a8
+  UzysCircularProgressPullToRefresh: dae115e62fcbaaf599f782562f1655bcde1191e2
+  ZFDragableModalTransition: 734279090d537b1f701b6efdccd41b0f78503de9
+
+COCOAPODS: 0.33.1

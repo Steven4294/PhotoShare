@@ -1,0 +1,1 @@
+../../ICGTransitionAnimation/Source/AnimationControllers/ICGSlideAnimation.h
